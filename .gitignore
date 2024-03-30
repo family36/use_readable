@@ -1,0 +1,8 @@
+*.pdf
+
+/pdf/*
+!/pdf/.gitkeep
+/split/*
+!/split/.gitkeep
+/translated/*
+!/translated/.gitkeep

@@ -1,0 +1,10 @@
+requests
+json
+time
+glob
+shutil
+os
+dotenv
+
+deepl == 1.16.1
+pypdf == 4.1.0
